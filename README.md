@@ -1,5 +1,5 @@
 # HackintoshX260
-Lenovo X260 I5-6300 runnins macOs Mojave 10.14.6
+Lenovo X260 I5-6300U runnins macOs Mojave 10.14.6
 
 
 Intel Hd 520

@@ -1,5 +1,9 @@
 # HackintoshX260
-Lenovo X260 I5-6300U runnins macOs Mojave 10.14.6
+Lenovo X260 I5-6300U runnins macOs  10.14.6
+
+
+Update : successfully updates to macOs catalina , no external 32bit wifi usb working as support curbed from Apple.
+Solution : Get a Dw1560 wifi card or BCM 94352 , depending on your wifi slot  i.e A type or E type.
 
 
 Intel Hd 520

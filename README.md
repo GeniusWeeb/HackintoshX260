@@ -1,5 +1,5 @@
 # HackintoshX260
-    Lenovo X260 I5-6300U runnins macOs  10.15.2
+  <b><i>  Lenovo X260 I5-6300U runnins macOs  10.15.2 </i></b>
 
 
 Update : successfully updates to macOs catalina , no external 32bit wifi usb working as support curbed from Apple.
